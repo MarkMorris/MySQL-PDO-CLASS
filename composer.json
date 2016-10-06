@@ -1,0 +1,17 @@
+{
+  "name": "MarkMorris/mysql",
+  "description" : "A Simple MySQL Class",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mark Morris",
+      "email": "mark@webfwd.co.uk"
+    }
+  ],
+  "require" : {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "files": [ "mysql.class.php" ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "MarkMorris/mysql",
+  "name": "markmorris/mysql-pdo-class",
   "description" : "A Simple MySQL Class",
   "license": "MIT",
   "authors": [
